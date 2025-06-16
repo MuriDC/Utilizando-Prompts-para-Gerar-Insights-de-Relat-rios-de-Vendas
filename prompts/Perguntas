@@ -1,0 +1,45 @@
+#Perguntas para fazer ao chat GPT para entender melhor como a empresa se comporta e o quais conclusões podemos tirar para melhor encaminhamento da produção dos consoles.
+
+Para uma análise mais organizada dividirei em blocos princiáis as possíveis perguntas para serem respondidas:
+Para os prompts, em caso de utilização da versão grátis é recomendado que finalize os prompts com "Responda somente com base nos dados fornecidos, e em caso de não ser possível responder com esses dados, informe. Não faça rextrapolações". Em caso da versão paga podemos fazer a configuração "nativa".
+Para comparação de valores podemos fazer um tratamento criando uma nova coluna transformando para a mesma moeda ou pedir para qua a inteligência artificial faça a conversão dos valores levando em consideração a moeda da venda. 
+
+#Consumidor
+-Qual a faixa etária dos compradores?
+-Quais os 3 países de residência mais comuns?
+-Qual a faixa etária dos comporadores por país?
+-Quais os dias da semana e horários com mais vendas?
+-Existem compradores recorrentes? Quais são? QUais produtos eles compram? 
+-Qual o ticket médio por consumidor?
+-Existe correlação entre idade e valor médio gasto?
+
+#Produto
+-Liste todos os produtos organizando por mais vendidos em unidades e em valor total.
+-Qual SKU com maior faturamento total?
+-Quais produtos com maiores descontos aplicados?
+-Faça uma tabela organizando os SKU por maior ticket médio.
+-Qual o desempenho de todos os produtos por país?
+-Quais produtos mais vendidos segregados por faixa etária e país?
+
+#Parceria
+-Qual empresa (site) com maior volume de vendas?
+-Qual empresa com maior faturamento?
+-Faça uma tabela com os produtos mais vendidos por empresa.
+-Qual o valor do descontos aplicados por empresa e produto?
+- Existe diferença de preços praticados entre empresas paa o mesmo item?
+
+#Preço e Desconto
+-Existe impacto dos cupons de desconto no volume de vendas?
+-Qual produto mais sensíveis a desconto?
+- Existe variação de preços por país ou empresa para o mesmo produto?
+
+#Financeiro
+-Qual o faturamento total por mês / semana / país?
+-Qual o faturamento por SKU
+-Faça uma projeção de vendas com base em tendências.
+-Quais os produtos com maior contribuição para o faturamento?
+
+#Geográfico
+-Qual o país com maior volume de vendas?
+-Qual o produto mais popular por país?
+-Quais as maiores variações de preços por país para o mesmo produto?
