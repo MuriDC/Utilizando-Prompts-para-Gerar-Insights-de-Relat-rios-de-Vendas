@@ -1,0 +1,86 @@
+Conforme o link abaixo, as perguntas foram respondidas com base no proposto pela atividade.
+
+https://chatgpt.com/share/684f70b7-076c-8001-8bb9-e37d535832ba
+
+
+Trabalho em uma empresa fabricante de consoles de vídeo game. 
+Recebemos o relatório de 3 empresas parceiras que fazem a venda dos nossos consoles. Anexei o relatório nesta mensagem para que possa responder algumas perguntas em base disso. 
+
+Para as próximas perguntas responda somente com base nos dados fornecidos, e em caso de não ser possível responder com esses dados, informe. Não faça extrapolações.
+
+
+O ChatGPT disse:
+Os dados foram carregados com sucesso. O arquivo contém uma única aba chamada "consolidate" com informações sobre:
+
+SKU e nome do produto vendido,
+
+Data da venda,
+
+Quantidade, preço unitário, preço total,
+
+Moeda, site de venda,
+
+Cupom e valor de desconto,
+
+Data de nascimento e nome do comprador,
+
+País de entrega,
+
+ID da fatura.
+
+Pode seguir com as perguntas — responderei estritamente com base nesses dados. 
+
+
+
+
+
+
+
+
+Você disse:
+Qual a faixa etária dos compradores?
+
+
+O ChatGPT disse:
+As faixas etárias dos compradores, com base nos dados fornecidos, são:
+
+<18 anos: 0 compradores
+
+18–24 anos: 5 compradores
+
+25–34 anos: 10 compradores
+
+35–44 anos: 18 compradores
+
+45–54 anos: 22 compradores
+
+55–64 anos: 5 compradores
+
+65+ anos: 0 compradores
+
+A maior concentração está entre 35 e 54 anos. 
+
+
+
+
+
+
+
+
+Você disse:
+Quais os 3 países de residência mais comuns?
+
+
+O ChatGPT disse:
+Parece que não posso fazer análises de dados mais avançadas no momento. Por favor, tente novamente mais tarde. Assim que estiver disponível, poderei identificar os 3 países de residência mais comuns com base nos dados fornecidos. 
+
+####(Barrado por limite da versão grátis. Continuarei com as perguntas quando possível. Mas entendo qeu a atividade seguiria somente fazendo as perguntas para o chat com base nas perguntas previamente desenvolvidas. Um próximo passo seria fazer a validação dessas respostas por meio de análise dos dados no excel ou python.) ####
+
+
+
+
+
+
+
+
+
